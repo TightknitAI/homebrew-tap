@@ -14,5 +14,5 @@ brew install tightknitai/tap/tightknit
 The Tightknit CLI is currently in alpha. Install via npm for now:
 
 ```bash
-npx @tightknitai/cli@alpha
+npx @tightknitai/tightknit@alpha
 ```
