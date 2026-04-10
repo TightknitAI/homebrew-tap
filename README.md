@@ -5,8 +5,8 @@ Homebrew formulae for [Tightknit](https://tightknit.ai) CLI tools.
 ## Usage
 
 ```bash
-brew tap tightknit/tap
-brew install tightknit
+brew tap tightknitai/tap
+brew install tightknitai/tap/tightknit
 ```
 
 ## Status
